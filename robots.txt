@@ -1,0 +1,17 @@
+User-agent: Googlebot
+Allow: /sitemap.xml
+Allow: /index.php
+Allow: /img/
+Allow: /css/
+Allow: /static/
+Allow: /js/
+
+User-agent: *
+Allow: /sitemap.xml
+Allow: /index.php
+Allow: /img/
+Allow: /css/
+Allow: /static/
+Allow: /js/
+
+Sitemap: https://paprikadigital.net/sitemap.xml
